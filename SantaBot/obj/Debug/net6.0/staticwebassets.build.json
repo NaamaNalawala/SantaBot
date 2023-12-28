@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "p07bbJK01tAc9HlWwb9D97lGOmfleeD0WkssDzbz7VE=",
+  "Source": "SantaBot",
+  "BasePath": "_content/SantaBot",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SantaBot\\wwwroot",
+      "Source": "SantaBot",
+      "ContentRoot": "D:\\Naama\\SantaBot\\SantaBot\\wwwroot\\",
+      "BasePath": "_content/SantaBot",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Naama\\SantaBot\\SantaBot\\wwwroot\\default.htm",
+      "SourceId": "SantaBot",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Naama\\SantaBot\\SantaBot\\wwwroot\\",
+      "BasePath": "_content/SantaBot",
+      "RelativePath": "default.htm",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\default.htm"
+    }
+  ]
+}
